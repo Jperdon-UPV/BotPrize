@@ -1,0 +1,21 @@
+{
+    "matchInformation": {
+        "matchStartTime": "2026-11-03 21:11:00",
+        "matchEndTime": "2026-11-03 21:11:28",
+        "matchWinner": "Match ended prematurely - No Winner",
+        "maxPlayers": 4,
+        "redTeam": [
+            "juam (HumanPlayer)"
+        ],
+        "blueTeam": []
+    },
+    "votingSummary": [
+        {
+            "targetName": "juam",
+            "trueIdentity": "Human",
+            "votesAsHumanCount": 0,
+            "votesAsBotCount": 0
+        }
+    ],
+    "votingTimeline": []
+}

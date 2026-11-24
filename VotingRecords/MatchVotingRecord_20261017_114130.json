@@ -1,0 +1,21 @@
+{
+    "matchInformation": {
+        "matchStartTime": "2026-10-17 11:41:30",
+        "matchEndTime": "2026-10-17 11:42:06",
+        "matchWinner": "Match ended prematurely - No Winner",
+        "maxPlayers": 2,
+        "redTeam": [],
+        "blueTeam": [
+            "Juan (HumanPlayer)"
+        ]
+    },
+    "votingSummary": [
+        {
+            "targetName": "Juan",
+            "trueIdentity": "Human",
+            "votesAsHumanCount": 0,
+            "votesAsBotCount": 0
+        }
+    ],
+    "votingTimeline": []
+}
